@@ -1,4 +1,4 @@
-# CMMT_based_THINC-WLIC
+# CMMT_based_THINC-WLIC_CLSVOF_method
 This repository contain the codes (written in C++) for THINC/WLIC scheme-based CLSVOF method in Cartesian coordinate system. Finite Volume Method is used to discretize the governing equations.
 
 # Software requirements
